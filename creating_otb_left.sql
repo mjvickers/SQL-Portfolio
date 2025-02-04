@@ -1,4 +1,5 @@
 CREATE VIEW otb_left AS (
+-- orders to brands
 SELECT 
     orders.order_id,
     orders.customer_id,
