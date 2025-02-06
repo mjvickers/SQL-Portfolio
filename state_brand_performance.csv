@@ -1,0 +1,4 @@
+"state","number_of_customers","recurring_customers","recurring_customer_percentage","state_revenue","total_orders","most_popular_brand","highest_revenue_brand"
+"CA","284","239","0.84","1605823.04","348","Electra (236 orders)","Trek ($925814.53)"
+"NY","1019","849","0.83","5215751.28","1093","Electra (739 orders)","Trek ($3124284.78)"
+"TX","142","124","0.87","867542.24","174","Electra (121 orders)","Trek ($552655.05)"
